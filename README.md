@@ -31,7 +31,7 @@ This repository documents the electrical design and integration of the ORCA proj
 
 ## 📊 Schematic Diagram
 
-![ORCA Schematic](Circuit Diagram/Power Circuit Schematic.jpg)  
+![ORCA Schematic](/Circuit Diagram/Power Circuit Schematic.jpg)  
 *Figure: Full system schematic including power rails, relay control*
 
 ---
