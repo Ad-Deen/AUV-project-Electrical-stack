@@ -31,7 +31,7 @@ This repository documents the electrical design and integration of the ORCA proj
 
 ## 📊 Schematic Diagram
 
-![ORCA Schematic](/Circuit Diagram/Power Circuit Schematic.jpg)  
+![ORCA Schematic]([/Circuit Diagram/Power Circuit Schematic.jpg(https://github.com/Ad-Deen/AUV-project-Electrical-stack/blob/0c86a2a0d1c4471a417bed91d88be4555fdab056/Circuit%20Diagram/Power%20Circuit%20Schematic.jpg))  
 *Figure: Full system schematic including power rails, relay control*
 
 ---
