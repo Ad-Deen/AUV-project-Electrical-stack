@@ -45,13 +45,13 @@ This repository documents the electrical design and integration of the ORCA proj
 - Wide **copper pours** are used for high current handling.
 - Optimized for compact waterproof enclosure integration.
 
-![ORCA PCB Top View](./Circuit Diagram/Power Circuit Pcb.png)  
+![ORCA PCB Top View](https://github.com/Ad-Deen/AUV-project-Electrical-stack/blob/main/Circuit%20Diagram/Power%20Circuit%20Pcb.png)  
 *Figure: Top layer of custom power PCB*
 
-![ORCA PCB 3D View](./Circuit Diagram/3D_Power Circuit.png)  
+![ORCA PCB 3D View](https://github.com/Ad-Deen/AUV-project-Electrical-stack/blob/main/Circuit%20Diagram/3D_Power%20Circuit.png)  
 *Figure: 3D view of assembled PCB*
 
-![Power Circuit Soldering Demo](./Circuit Diagram/demo.gif)
+![Power Circuit Soldering Demo](https://github.com/Ad-Deen/AUV-project-Electrical-stack/blob/main/Circuit%20Diagram/demo.GIF?raw=true)
 
 ---
 
@@ -70,7 +70,7 @@ This repository documents the electrical design and integration of the ORCA proj
   - Pressure Sensor
   - Servos for robotic arm
 
-![ORCA Schematic](./Circuit Diagram/ORCA Logic Circuit_Schematic.jpg)  
+![ORCA Logic Circuit Schematic](https://github.com/Ad-Deen/AUV-project-Electrical-stack/blob/main/Circuit%20Diagram/ORCA%20Logic%20Circuit_Schematic.jpg)  
 *Figure: Logic Circuit board including 2 ESP32, IMU, and other peripheral connectors*
 
 ### 🔄 ESP32 ↔ Jetson Nano
@@ -89,10 +89,10 @@ This repository documents the electrical design and integration of the ORCA proj
 
 ---
 
-![ORCA PCB Logic View](./Circuit Diagram/logic_circuit pcb.png)  
+![ORCA PCB Logic View](https://github.com/Ad-Deen/AUV-project-Electrical-stack/blob/main/Circuit%20Diagram/logic_circuit%20pcb.png)  
 *Figure: Top layer of custom logic PCB*
 
-![ORCA PCB 3D View](./Circuit Diagram/3D_Logic_Circuit.png)  
+![ORCA PCB 3D View](https://github.com/Ad-Deen/AUV-project-Electrical-stack/blob/main/Circuit%20Diagram/3D_Logic_Circuit.png)  
 *Figure: 3D view of assembled Logic PCB*
 
 ![Power Circuit Soldering Demo](./Circuit Diagram/demo.gif)
